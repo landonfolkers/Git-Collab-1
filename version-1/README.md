@@ -2,6 +2,10 @@
 
 Work with a partner to edit a project and manage your changes with git.
 
+## Git Workflow
+
+Basic Git Workflow
+
 ## Steps
 1. Find a partner. Pick one person to copy the app folder so that it is outside of this repo. Initialize it as its own git repo and link it to a remote on Github.
 2. Decide on your git workflow and record it inside the repo before you start. Be sure to commit it before moving on to the tasks.
